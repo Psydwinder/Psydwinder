@@ -5,7 +5,7 @@ I'm Niete
 - 🌱 I’m currently part of cohort 26 at Founders and Coders
 - 💬 Ask me about anything! I'll do my best to answer
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In my previous roles, I was dubbed "The Feeder" because I always have snacks for everyone 
+- ⚡ Fun fact: In my previous roles, I was dubbed "The Feeder" because I always bought snacks to feed everyone 
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=Psydwinder&theme=dracula&hide=stars,issues)
 
