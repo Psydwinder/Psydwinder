@@ -13,11 +13,11 @@ I'm Niete
 
 Some of the projects I've really enjoyed working on are:
 
-1. [**Web Mash Up Project**](https://github.com/fac26/CatsDogsOrMovies) - This project was assigned to get teams to think about and implement their previous knowledge of fetching API's and presenting the data in an interesting manner. For this project I was responsible for creating the main page that ties the other three pages together and the movies page that allows the users to watch trailers for films so that they can make a more informed decision about what film to watch. 
+1. [**Web Mash Up Project**](https://github.com/fac26/CatsDogsOrMovies) - This project was assigned to get teams to think about and implement their previous **knowledge of fetching API's** and **presenting the data in an interesting manner**. For this project I was responsible for creating the main page that ties the other three pages together and the movies page that **allows the users to watch trailers for films so that they can make a more informed decision about what film to watch.** 
 
 You can view the live page [**here**](https://fac26.github.io/CatsDogsOrMovies/)
 
-2. [**The Pig Game**](https://github.com/Psydwinder/Founders-6-The-Pig-Game) - This project was created as part of the application process for the Founders and Coders Bootcamp. The project gave me a chance to learn how to code a basic risk reward style dice game, using my knowledge of ternary operators and reinforcing my knowledge of Event listeners to perform various functions.
+2. [**The Pig Game**](https://github.com/Psydwinder/Founders-6-The-Pig-Game) - This project was created as part of the application process for the Founders and Coders Bootcamp. The project gave me a chance to learn how to code a basic risk reward style dice game, using my knowledge of **ternary operators** and **reinforcing my knowledge of Event listeners** to perform **various functions.**
 
 You can view the live page [**here**](https://psydwinder.github.io/Founders-6-The-Pig-Game/)
 
