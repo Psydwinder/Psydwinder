@@ -25,9 +25,9 @@ You can view the live page [**here**](https://psydwinder.github.io/Founders-6-Th
 
 ## What I'm working on
 
-I'm currently working in a team of two to create a **To-do list APP** that implements our knowledge of **Test Driven Development** 
+🚧
 
-You can keep up to date with our progress [**here**](https://github.com/fac26/TODO-LIST-Laura-Niete)
+This section is currently under construction
 
 ## The numbers
 ![Niete's github stats](https://github-readme-stats.vercel.app/api?username=Psydwinder&theme=dracula&hide=stars,issues)
