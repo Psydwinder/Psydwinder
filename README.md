@@ -2,10 +2,8 @@
 
 I'm Niete
 
-- 🌱 I’m currently part of cohort 26 at Founders and Coders
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: In my previous roles, I was dubbed "The Feeder" because I always bought snacks to feed everyone
-- 🔍 Want to know more? Check out my [**User manual**](https://github.com/fac26/users-manuals/issues/3)
+- 🌱 I’m currently building a bunch of cool projects and working at AK Productions as a Front-end Developer
+- ⚡ Fun fact: My name means, No in Russian, Intentions in Hindi and Rivet in German.
 - 🖌️ When I'm not coding, I spend my time sketching. Checkout some of my work [**here**](https://www.instagram.com/nrdigimation/) 
 - 💬 Ask me about anything! I'll do my best to answer
 
